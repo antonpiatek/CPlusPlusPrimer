@@ -1,4 +1,4 @@
-#!/bin/make
+#!/usr/bin/make
 OBJECTS=hex2ascii ascii2hex
 
 CXX=g++
